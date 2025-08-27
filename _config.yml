@@ -22,8 +22,8 @@ title: moser's frame shop
 email: anthony.moser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   writing is a technology, frames are a frame. bespoke human content.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/writing" # the subpath of your site, e.g. /blog
+url: "anthonymoser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  anthonymoser
 
