@@ -4,9 +4,6 @@ title:  "The Kirby Frame"
 date:   2026-01-28 11:16:23 -0600
 categories: rhetoric framing kirby
 ---
-
-# The Kirby Frame
-
 ![The Kirby “eat their frame” meme. ](https://storage.googleapis.com/pdt_central/frameshop/eat_their_frames.png)
 
 The Kirby Frame is a tool for dealing with bad faith arguments. I first posted it as a [meme](https://bsky.app/profile/anthonymoser.com/post/3lzlqkyhxws2r) on Bluesky with a running thread of examples, but I’m writing it up for reference (here’s the [template file](https://storage.googleapis.com/pdt_central/frameshop/frame_negation_kirby.pdf)).  
