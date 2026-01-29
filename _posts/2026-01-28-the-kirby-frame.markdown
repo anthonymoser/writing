@@ -7,9 +7,9 @@ categories: rhetoric framing kirby
 
 # The Kirby Frame
 
-![The Kirby “eat their frame” meme. ](/writing/assets/eat_their_frames.png)
+![The Kirby “eat their frame” meme. ](https://storage.googleapis.com/pdt_central/frameshop/eat_their_frames.png)
 
-The Kirby Frame is a tool for dealing with bad faith arguments. I first posted it as a [meme](https://bsky.app/profile/anthonymoser.com/post/3lzlqkyhxws2r) on Bluesky with a running thread of examples, but I’m writing it up for reference (here’s the [template file](/writing/assets/frame_negation_kirby.pdf)).  
+The Kirby Frame is a tool for dealing with bad faith arguments. I first posted it as a [meme](https://bsky.app/profile/anthonymoser.com/post/3lzlqkyhxws2r) on Bluesky with a running thread of examples, but I’m writing it up for reference (here’s the [template file](https://storage.googleapis.com/pdt_central/frameshop/frame_negation_kirby.pdf)).  
 
 It’s based on George Lakoff’s observation that “negating a frame reinforces it.” For example, when Secretary of the Department of Health Robert F Kennedy Jr says autism is bad and autistic people are a drain on society, there is a natural instinct among decent people to point out that those claims are wrong: actually many autistic people are very productive members of society, these famous people are autistic, etc. 
 
