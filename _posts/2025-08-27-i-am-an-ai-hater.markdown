@@ -27,13 +27,15 @@ I do understand: you want permission. There's a machine in the corner wrapped in
 
 But I am a hater, and I will not be polite. The machine is disgusting and we should break it. The people who build it are vapid shit-eating cannibals glorifying ignorance. I strongly feel that this is an insult to life itself. 
 
-I became a hater by doing precisely those things AI cannot do: reading and understanding human language; thinking and reasoning about ideas; considering the meaning of my words and their context; loving people, making art, living in my body with its flaws and feelings and life. AI cannot be a hater, because AI does not feel, or know, or care. Only humans can be haters. I celebrate my humanity.
-
+I became a hater by doing precisely those things AI cannot do: reading and understanding human language; thinking and reasoning about ideas; considering the meaning of my words and their context; loving people, making art, living in my body with its flaws and feelings and life. AI cannot be a hater, because AI does not feel, or know, or care. Only humans can be haters. I celebrate my humanity.  
+  
+<br>
+<br>
+<br>
 
 ---
-  
 
->
+  
 *Thanks to the efforts of the international ai haters union, this essay is also available in [Brazilian Portuguese](https://anthonymoser.github.io/writing/ai/haterdom/2025/12/29/eu-odeio-ia.html) and [Italian](https://anthonymoser.github.io/writing/ai/haterdom/2026/03/20/odio-l'ia.html), with audio recordings in [English](https://padlet.com/laurenUU/ai-sucks-and-you-should-not-use-it-c92rnafcqlbev8zn/wish/4b3zaMpeNpk9W2j7) and [Brazilian Portuguese](https://youtu.be/Fku-pk9ZSxI).*
 
 
