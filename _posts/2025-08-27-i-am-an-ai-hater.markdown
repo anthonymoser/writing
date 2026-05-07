@@ -36,7 +36,7 @@ I became a hater by doing precisely those things AI cannot do: reading and under
 ---
 
   
-*Thanks to the efforts of the international ai haters union, this essay is also available in [Brazilian Portuguese](https://anthonymoser.github.io/writing/ai/haterdom/2025/12/29/eu-odeio-ia.html) and [Italian](https://anthonymoser.github.io/writing/ai/haterdom/2026/03/20/odio-l'ia.html), with audio recordings in [English](https://padlet.com/laurenUU/ai-sucks-and-you-should-not-use-it-c92rnafcqlbev8zn/wish/4b3zaMpeNpk9W2j7) and [Brazilian Portuguese](https://youtu.be/Fku-pk9ZSxI).*
+*Thanks to the efforts of the international ai haters union, this essay is also available in [Brazilian Portuguese](https://anthonymoser.github.io/writing/ai/haterdom/2025/12/29/eu-odeio-ia.html), [Italian](https://anthonymoser.github.io/writing/ai/haterdom/2026/03/20/odio-l'ia.html), and [Spanish](https://anthonymoser.github.io/writing/ai/haterdom/2026/05/07/odio-la-ia.html), with audio recordings in [English](https://padlet.com/laurenUU/ai-sucks-and-you-should-not-use-it-c92rnafcqlbev8zn/wish/4b3zaMpeNpk9W2j7) and [Brazilian Portuguese](https://youtu.be/Fku-pk9ZSxI).*
 
 
 
