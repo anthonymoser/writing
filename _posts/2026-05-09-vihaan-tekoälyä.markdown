@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vihaan tekoälyä"
-date:   2026-05-09 13:00:00 -0500
+date:   2026-05-09 12:00:00 -0500
 categories: ai haterdom 
 ---
 
