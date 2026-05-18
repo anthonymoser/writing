@@ -28,9 +28,10 @@ Dum consumit illos qui utuntur, etiam dum frauditores se ipse defraudant, etiam 
 
 Certe scio: licentiam desideras. In angulo est machina amicta cute humana quae fabricat ex sanguine ac excremento quid esse videtur quidquid rogaveras (nisi perspiceres). Dedisti unam magistro vestro qui non animadvertit. Procurator vester iussit ut hoc utaris postquam dimidiam partem sociorum dimiserat. Quasi cibum cuidam liberium vestrum hanc tradidisti et cui placebat. Cupis certo scire ut possis uti hac machina et vos nullo modo despiciam. Vobis non necesse est ut hoc esse utile credam, sed solum me esse civilem.
 
-Sed osor sum, et non civilis ero. Haec machina est foeda et nobis confringenda est. Qui hoc fabricant sunt inani coprophagi anthropophagi ignorantiam glorificantes. Credo firme hoc esse contumeliam contra vitam ipsam
+Sed osor sum, et non civilis ero. Haec machina est foeda et nobis confringenda est. Qui hoc fabricant sunt inani coprophagi anthropophagi ignorantiam glorificantes. Credo firme hoc esse contumeliam contra vitam ipsam  
 
 Osor factus sum per facienda qua Intellegentia Artificosa non potest facere: legendo et intellegendo linguam humanam; cogitando et disserendo de sententiis; considerando vim ac contextum meorum verborum; amando homines; faciendo artem; vivendo in meum corpus cum vitiis, affectibus, at vitalitate. Intellegentia Artificialis esse osor non potest quia Intellegentia Artificialis nec sensit nec intellegit necque curat. Homines soli possunt esse osores. Meam humanitatem cano.
+
 ---
 
 Translated by [Den McHenry](https://denmchenry.com/posts/i-am-an-ai-hater-latine/). [Original text](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) by Anthony Moser
