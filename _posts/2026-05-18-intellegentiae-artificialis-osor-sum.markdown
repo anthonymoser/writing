@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intellegentiae Artificialis Osor Sum"
-date:   2026-05-18 10:0:00 -0500
+date:   2026-05-18 08:00:00 -0500
 categories: ai haterdom 
 ---
 ## Intellegentiae Artificialis Osor Sum
