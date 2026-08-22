@@ -31,4 +31,4 @@ Ik ben een hater geworden door net die dingen te doen die AI niet kan: mensentaa
 
 ---
 
-Vertaald door Nathan Follens [https://l10n.gnome.org/users/nathan/], [oorspronkelijke tekst](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) door Anthony Moser
+Vertaald door [Nathan Follens](https://l10n.gnome.org/users/nathan/), [oorspronkelijke tekst](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) door Anthony Moser
