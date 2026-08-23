@@ -4,8 +4,6 @@ title:  "Intellegentiae Artificialis Osor Sum"
 date:   2026-05-18 08:00:00 -0500
 categories: ai haterdom 
 ---
-## Intellegentiae Artificialis Osor Sum
-
 a.d. VII Kal. Sept. MMXXV
 
 Intellegentiae Artificialis osor sum, quod incivile habetur. At non curo, quoniam osor sum.
