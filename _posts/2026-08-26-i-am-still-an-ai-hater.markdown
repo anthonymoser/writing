@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Am Still An AI Hater"
-date:   2026-08-26 00:00:00 -0500
+date:   2026-08-26 07:00:00 -0500
 categories: ai haterdom 
 ---
 
